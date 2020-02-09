@@ -2,27 +2,41 @@ body{
     background-color: skyblue;
     background-size: cover;
 }
+.topnav{
+    padding-top: none;
+    padding-right: none;
+    padding-bottom: 60px;
+    padding-left: none;
+    font-size: large;
+    box-shadow: black;
+    background-color: red;
+    flex-direction: column-reverse;
+}
 .base{
     padding-top: none;
     padding-right: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 35px;
     padding-left: 10px;
     flex-direction: row;
     float: right;
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
 }
-.topnav{
-    padding-top: 20px;
-    padding-right: 1px;
-    padding-bottom: 80px;
-    padding-left: 1px;
-    font-size: large;
-    box-shadow: black;
-    background-color: red;
-    flex-direction: column-reverse;
+#bar{
+    padding-top: none;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    padding-left: none;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
 }
-
+.exodus{
+    padding-top: 10px;
+    padding-right: 150px;
+    padding-bottom: 30px;
+    padding-left: none;
+}
 #name{
     padding-top: 30px;
     padding-right: 15px;
@@ -34,30 +48,23 @@ body{
     font-style: italic;
     font-family: fantasy;
 }
-.lizz{
-    float: left;
-    padding-top: 15px;
-    padding-right: 30px;
-    padding-bottom: 15px;
-    padding-left: 0px;
-}
-#info{
+
+.info{
     color: red;
-    padding-top: 40px;
+    padding-top: 30px;
     padding-right: 150px;
-    padding-bottom: 30px;
-    padding-left: 60px;
-    text-align: right;
+    padding-bottom: 1px;
+    padding-left: none;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
 }
-#yamo{
-    text-align: left;
-    font-size: medium;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: oblique;
+.jah{
+    padding-top: none;
+    padding-right: none;
+    padding-bottom: none;
+    padding-left: none;
 }
 #me{
-    flex-direction: row-reverse;
+    float: right;
 }
