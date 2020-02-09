@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(6, 46, 48);
+    background-size: cover;
+}
+#me{
+    flex-direction: row-reverse;
+}
+.topnav{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    float: right;
+}
