@@ -6,8 +6,29 @@ body{
     flex-direction: row-reverse;
 }
 .topnav{
+    
+    padding-top: 20px;
     font-size: large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: normal;
-    float: right;
+    box-shadow: black;
+    background-color: floralwhite;
+    float: inline-end;
+}
+#bar{
+    font: message-box;
+    font-size: large;
+    font-family: ;
+}
+#name{
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+    font-style: italic;
+    font-family: fantasy;
+}
+#info{
+    padding-top: 35px;
 }
