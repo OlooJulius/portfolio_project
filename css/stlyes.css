@@ -101,6 +101,16 @@ body{
     font-style: oblique;
     text-shadow: blueviolet;
 }
+#nector{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+#bravo{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
 @media  screen 
 and (min-device-width: 1200px)
 and (max-device-width: 1600px)
