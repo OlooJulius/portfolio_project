@@ -21,6 +21,7 @@ https://oloojulius.github.io/portfolio_project/
 #
 Licensor Name (hereinafter, referred to as “Licensor”): Oloo JULIUS
 #
+
 Licensor Contact Information:
 #
 Address:
