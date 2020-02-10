@@ -32,6 +32,7 @@ City: NAIROBI
 Phone Number: (+254) 705- 758-781
 #
 Email: juliusoloooloer@gmail.com
+
 #
 Licensee Name (hereinafter referred to as “Licensee”): Hamida
 #
