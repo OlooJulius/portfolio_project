@@ -94,6 +94,13 @@ body{
     padding-bottom: 5px;
     padding-left: 10px;
 }
+#sector{
+    padding-top: none;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-shadow: blueviolet;
+}
 @media  screen 
 and (min-device-width: 1200px)
 and (max-device-width: 1600px)
