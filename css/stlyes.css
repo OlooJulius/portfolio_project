@@ -150,6 +150,23 @@ header a:hover{
 
 }
 
+
+/* sidebar */
+
+aside#sidebar{
+    float: left;
+    width: 30%;
+    margin-top: 15px;
+
+}
+
+/* main */
+
+article#main-col{
+    float: left;
+    width:  60%;
+}
+
 /* footer */
 
 
