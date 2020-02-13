@@ -81,17 +81,14 @@ header a:hover{
 /* showcase */
 
 #showcase{
+    background-image: url("./images/oloo.jpeg") no-repeat;
     min-height: 100%;
+    min-width: 100%;
     text-align: center;
     color: #ffffff;
 }
 
-#bobo{
-    background-position: center;
-    background-size: cover;
-    flex-direction: column;
-    flex-grow: inherit;
-}
+
 
 /* Centered text */
 .centered {
@@ -148,7 +145,7 @@ header a:hover{
     padding: 10px;
 }
 
-#boxes .img{
+#boxes .box img{
     width: 100px;
 
 }
