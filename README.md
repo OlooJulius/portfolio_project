@@ -1,6 +1,8 @@
 ## A project of my landing page
 
-## Author : Oloo Julius
+## Author 
+
+ Oloo Julius
 
 ## Description
 
