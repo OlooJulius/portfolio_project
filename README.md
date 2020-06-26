@@ -1,13 +1,12 @@
-#
-A project of my landing page
+##A project of my landing page
 
-Author : Oloo Julius
+##Author : Oloo Julius
 
-#Description
+##Description
 
 This project is undertaken while at Moringa School evaluating my Week 1 progress
 
-#Project setup
+##Project setup
 
 Simple webpage that runs on all web search engines
 Used Html to create the basic page layout with css to style the page
