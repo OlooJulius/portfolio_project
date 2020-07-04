@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_project",
+  "version": "1.0.0",
+  "description": "## Author",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlooJulius/portfolio_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlooJulius/portfolio_project/issues"
+  },
+  "homepage": "https://github.com/OlooJulius/portfolio_project#readme"
+}
